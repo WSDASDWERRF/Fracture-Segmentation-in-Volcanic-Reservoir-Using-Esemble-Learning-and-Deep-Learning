@@ -12,12 +12,12 @@ And my U-Net++ model would be downloaded from folder trained model.
 
 ## Model
 The models of random forest, 2.5D U-Net++ would be founded from folder trained model. On the same time, you can see other models, like Link-Net, I-Net in the same folder.
-One thing needs to be emphasizing, * means that the model was trained after using random forest model. Random forest model would be used in software Imagej, and other model should be used in Dragonfly.
+One thing needs to be emphasizing, r means that the model was trained after using random forest model. Random forest model would be used in software Imagej, and other model should be used in Dragonfly.
 
 ## Training
 All models are trained after “label-as-you-train” strategy. 
 Hence, in random forest model, you can choose three of the samples to train your own model. And my model was trained for three times, by the first three images. 
-In other deep-learning models, all models was trained for 5 epochs.
+In other deep-learning models, all models was trained for 10 epochs.
 
 ## Application
 You can find codes from floder code to automatedly apply the random forest model for every image.
