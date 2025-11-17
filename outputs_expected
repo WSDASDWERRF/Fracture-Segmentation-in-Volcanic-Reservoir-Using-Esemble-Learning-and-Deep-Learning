@@ -1,0 +1,6 @@
+**Random forest model output
+The expected results from training the random forest model would be listed from folder sample: images after segmentation and folder trained models: random forest model.
+
+**2.5D U-Net++ model output
+The expected results from training the 2.5D U-Net++ model would be seen from folder trained models: 2.5D U-Net++ model.
+And the result 
