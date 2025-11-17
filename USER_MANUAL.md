@@ -4,7 +4,8 @@
 The software Imagej and Dragonfly can be downloaded from folder software installation package.
 
 ## Data augmentation
-The data for training contains 9 952*881 images, which can be used for training the random forest model. Cause of the difference in feature labeling, you can get different results in training.
+You can find data from folder sample.
+The data for training contains 9 952*889 images, which can be used for training the random forest model. Cause of the difference in feature labeling, you can get different results in training.
 And my random forest model would be downloaded from folder trained model.
 Then, the segmented 9 images would be put into training the U-Net++ model. For the same reason, you can use your own model for getting the final micro-feature segmentation, or use my U-Net++ model.
 And my U-Net++ model would be downloaded from folder trained model.
