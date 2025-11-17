@@ -5,10 +5,10 @@
 
 ## What is this
 Reproducible code, sample data and softwares for the manuscript in different stages. This repo contains:
--Software installation package: Imagej-Windows64, Dragonfly 2024.01.
--Code for achieving automated application of random forest model in software Imagej ('/src')
--User manual ('/docs/USER_MANUAL.md')
--Test data ('/data/sample') and expected outputs ('outputs_expected')
+-Software installation package: Imagej-Windows64, Dragonfly 2024.01 ('Installation Package')
+-Code for achieving automated application of random forest model in software Imagej ('code')
+-User manual ('USER_MANUAL.md')
+-Test data ('sample') and expected outputs ('outputs_expected')
 
 
 ## Quick start
