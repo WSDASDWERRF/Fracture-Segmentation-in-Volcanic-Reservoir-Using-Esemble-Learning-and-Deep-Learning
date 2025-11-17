@@ -25,7 +25,7 @@ And other models would be applied in software Dragonfly.
 ## How to use
 
 **Random forest model
-Download software Imagej and the data 9 952*881 images.
+Download software Imagej and the data 9 952*889 images.
 Import one of the image into Imagej, use module "B&C" or "Enhance Contrast" and change "saturated" into 0.35.
 Then, use module"Freehand", select ROI area for further labeling. 
 Use module"Advanced Weka Segmentation", label the feature area and then train random forest model.
